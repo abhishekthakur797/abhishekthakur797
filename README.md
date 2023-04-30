@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📝 I regularly write articles on [https://indianhotdeal.com/](https://indianhotdeal.com/)
+- 📝 I regularly write articles on [https://indianhotdeal.com/](https://indianhotdeal.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
