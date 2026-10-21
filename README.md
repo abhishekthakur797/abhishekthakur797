@@ -67,7 +67,3 @@
     <img height="170" src="https://streak-stats.demolab.com/?user=abhishekthakur797&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=1F2328&dates=656D76" alt="GitHub streak">
   </picture>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhishekthakur797/abhishekthakur797/main/metrics.languages.svg" alt="Most used languages (including private repos)">
-</p>
